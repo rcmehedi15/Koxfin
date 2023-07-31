@@ -19,7 +19,8 @@ const HeroArea = () => {
                                 Automated Innovation </h1>
                             <p className="text-[#F8F8F8] py-4 ml-20 ">Securing Your Business and Streamlining Operations <br />
                                 with Integrated Payment, Automation, Data, and Security Solutions</p>
-                            <Link to="/signup" className="ml-20 btn bg-[#FF42A5] text-white border-none">Get Started </Link>
+                            <Link to="/signup" className="ml-20 btn LetsConnectBTN text-white"> LET’S CONNECT </Link>
+                            <Link to="/" className="ml-10 btn btn-outline LearMoreBtn outline-[#FC5F45] text-white "> LEARN MORE </Link>
                         </Container>
                     </div>
                 </div>
