@@ -8,10 +8,10 @@ import MenuDropdown from './MenuDropDown';
 const Navbar = () => {
     return (
         <>
-            <div className='fixed w-full bg-white z-10 shadow-sm'>
-                <div className='py-4 border-b-[1px]'>
+            <div className=' w-full bg-[#272727] z-10 '>
+                <div className='py-4 '>
                     <Container>
-                        <div className='flex  items-center justify-between gap-3 md:gap-0'>
+                        <div className='flex  items-center justify-between gap-3 md:gap-0 '>
                            <Logo />
                            <MenuDropdown />
                            <Search />

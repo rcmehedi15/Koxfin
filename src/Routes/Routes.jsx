@@ -8,10 +8,10 @@ export const router = createBrowserRouter([
     path: "/",
     element: <Main />,
     children: [
-    //   {
-    //     path: '/',
-    //     element: <HomePage />
-    //   },
+      {
+        path: '/',
+        element: <HomePage />
+      },
     //   {
     //     path: '/login',
     //     element: <Login />

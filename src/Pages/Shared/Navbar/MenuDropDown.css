@@ -1,0 +1,14 @@
+.hoverColor > li:hover {
+    background-color: #FC5F45!important;
+    border-radius: 5px;
+  }
+  
+  .hoverColor > li > a:hover {
+    
+    color: #96ffde!important;
+  }
+/* .hoverColor > li:nth-child(2){
+    background-color: #FC5F45!important;
+    border-radius: 5px;
+    color: #ffffff!important;
+} */
