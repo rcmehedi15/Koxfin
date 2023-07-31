@@ -1,0 +1,19 @@
+.subHeading {
+    color: #EAEAEC;
+
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.sideBarShaddow {
+    position: absolute;
+    top: 250px;
+   
+    width: 1342px;
+    height: 1342px;
+    
+    background: radial-gradient(42.19% 42.19% at 50.00% 50.00%, rgba(136, 64, 52, 0.62) 0%, #272727 100%, #272727 100%);
+}

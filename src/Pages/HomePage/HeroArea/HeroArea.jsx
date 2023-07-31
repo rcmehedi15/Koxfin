@@ -1,11 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import navarrow from '../../../assets/images/navarrow.png'
+import sideradius from '../../../assets/images/sideradius.png'
+
 import '../HeroArea/HeroArea.css'
 import Container from '../../Shared/Container/Container';
 const HeroArea = () => {
     return (
         <>
+            <img src={sideradius} className='absolute z-0 top-250' alt="" />
 
 
             <div className="hero place-content-start flex   min-h-screen bg-[#272727]  ">
